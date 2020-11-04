@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "kalinaweb"
+      "X-Author": "kalinaweb",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
