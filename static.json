@@ -9,7 +9,7 @@
       "Access-Control-Allow-Origin": "*"
     },
     "/sample/": {
-      "Access-Control-Allow-Headers": "Content-Type, Access-Control-Allow-Headers",
+      "Access-Control-Allow-Headers": "Content-Type, Access-Control-Allow-Headers"
     }
   }
 }
